@@ -1,0 +1,1 @@
+Modified version of virglrenderer. The original repository lives at https://gitlab.freedesktop.org/virgl/virglrenderer.
